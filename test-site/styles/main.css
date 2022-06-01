@@ -1,0 +1,38 @@
+html {
+  background-color: #464240;
+  color: white;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #ff9500;
+  padding: 0px 20px 20px 20px;
+  border: 5px solid 464240;
+  border-radius: 8px;
+}
+
+h1 {
+  font-size: 48px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  text-shadow: 3px 3px 3px #464240;
+}
+
+img {
+  border-radius: 8px;
+  display: block;
+  max-width: 100%;
+  margin-bottom: 32px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
